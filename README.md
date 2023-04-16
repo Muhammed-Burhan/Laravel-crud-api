@@ -7,9 +7,9 @@ This is a simple Laravel CRUD API that allows you to create, read, update, and d
 To install this application, follow these steps:
 
 1. Clone the repository:
-
-git clone https://github.com/Muhammed-Burhan/Laravel-crud-api.git
-
+```
+   git clone https://github.com/Muhammed-Burhan/Laravel-crud-api.git
+```
 2. Install the dependencies:
 ```
    composer install
