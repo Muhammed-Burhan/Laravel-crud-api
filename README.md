@@ -11,21 +11,21 @@ To install this application, follow these steps:
 git clone https://github.com/Muhammed-Burhan/Laravel-crud-api.git
 
 2. Install the dependencies:
-
-composer install
-
+```
+   composer install
+```
 3. Copy the `.env.example` file to `.env`:
 
 4. Update the `.env` file with the appropriate database information and other settings.
 
 5. Run the database migrations:
-
-php artisan migrate
-
+```
+   php artisan migrate
+```
 6. Start the local development server:
-
-php artisan serve
-
+```
+   php artisan serve
+```
 
 ## Usage
 
