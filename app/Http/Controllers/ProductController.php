@@ -11,7 +11,12 @@ class ProductController extends Controller
      */
     public function index()
     {
-       return Product::all();
+        try {
+            $result=Product::all();
+            return $result; 
+        } catch (\Throwable $th) {
+            return response(['msg'=>$th]);
+        }
     }
 
     /**
