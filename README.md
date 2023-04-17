@@ -1,6 +1,6 @@
 # Laravel CRUD API with Authentication
 
-This is a simple Laravel CRUD API that allows you to create, read, update, and delete data from a MySQL database. The API also has login and logout functionality to protect certain routes from unauthorized access.
+This is a simple Laravel CRUD API that allows you to create, read, update, and delete data from a PostgreSQL database. The API also has login and logout functionality to protect certain routes from unauthorized access.
 
 ## Installation
 
